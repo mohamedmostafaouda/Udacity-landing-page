@@ -1,6 +1,6 @@
 # udacity-landing-page
 This is Udacity nano degree project with some modifications
-##app.js
+"app.js"
 I have created new functions that make the navigation through the landing page easier and efficeint
 - Dynamic navigation bar
 - Automatic hiding navigation bar
