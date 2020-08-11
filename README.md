@@ -1,4 +1,4 @@
-# udacity-landing-page
+# Udacity-landing-page
 This is Udacity nano degree project with some modifications
 "app.js"
 I have created new functions that make the navigation through the landing page easier and efficeint
